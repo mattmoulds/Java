@@ -6,7 +6,9 @@
  * This program illustrates the differences
  * between int and double
  * call this file Example3
+ *
  */
+// 1 - 3 //
 class Example3 {
     public static void main(String args[]) {
         int var; // this declares an int variable
