@@ -6,6 +6,7 @@
 * This program displays a conversion
 * table of gallons to liters
 */
+// 1 - 8 //
 class GalToLitTable {
     public static void main(String args[]) {
         double gallons, liters;
