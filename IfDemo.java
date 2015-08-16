@@ -6,6 +6,7 @@
 *
 * call this file IfDemo.java.
 */
+// 1 - 5 //
 class IfDemo {
     public static void main(String args[]) {
         int a, b, c;
