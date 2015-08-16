@@ -3,12 +3,11 @@
  */
 
 /*
-    Try this 1 - 1
-
-    This program converts gallons to liter.
-
-    Call this program GalToLit.java.
- */
+* Try this 1 - 1
+* This program converts gallons to liter.
+* Call this program GalToLit.java.
+*/
+// 1 - 4 //
 
 class GalToLit {
     public static void main(String args[]) {
