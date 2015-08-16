@@ -6,6 +6,7 @@
 *
 * Call this file ForDemo.java.
 */
+// 1 - 6 //
 class ForDemo {
     public static void main(String args[]) {
         int count;
