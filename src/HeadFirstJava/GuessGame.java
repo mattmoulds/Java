@@ -1,3 +1,7 @@
+package HeadFirstJava;
+
+import HeadFirstJava.Player;
+
 /**
  * Created by matt on 23/08/15.
  */
