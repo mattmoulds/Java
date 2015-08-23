@@ -1,3 +1,5 @@
+package JavaBeginGuide;
+
 /**
  * Created by matthewmoulds on 18/08/15.
  */

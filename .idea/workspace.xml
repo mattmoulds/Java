@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8357ef71-3292-4454-81ff-d02d62e1af9f" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BeerSong.java" afterPath="$PROJECT_DIR$/src/HeadFirstJava/BeerSong.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Dog.java" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Dog.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DogTestDrive.java" afterPath="$PROJECT_DIR$/src/HeadFirstJava/DogTestDrive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GameLauncher.java" afterPath="$PROJECT_DIR$/src/HeadFirstJava/GameLauncher.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GuessGame.java" afterPath="$PROJECT_DIR$/src/HeadFirstJava/GuessGame.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Movie.java" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Movie.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/MovieTestDrive.java" afterPath="$PROJECT_DIR$/src/HeadFirstJava/MovieTestDrive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/PhraseOMatic.java" afterPath="$PROJECT_DIR$/src/HeadFirstJava/PhraseOMatic.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Player.java" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Player.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BlockDemo.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/BlockDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/BoolDemo.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/BoolDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/CharArithDemo.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/CharArithDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Example.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/Example.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Example2.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/Example2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Example3.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/Example3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/ForDemo.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/ForDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GalToLit.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/GalToLit.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GalToLitTable.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/GalToLitTable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/GravityTask.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/GravityTask.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Hypot.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/Hypot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/IfDemo.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/IfDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/InchToMeters.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/InchToMeters.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Inches.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/Inches.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Shuffle1.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/Shuffle1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Sound.java" afterPath="$PROJECT_DIR$/src/JavaBeginGuide/Sound.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -33,10 +40,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="BlockDemo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BlockDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaBeginGuide/BlockDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22291021">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.27863777">
+              <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -73,6 +80,7 @@
         <option value="$PROJECT_DIR$/src/CodeMagnets/DrumKitTestDrive.java" />
         <option value="$PROJECT_DIR$/src/PoolPuzzle/Echo.java" />
         <option value="$PROJECT_DIR$/src/PoolPuzzle/EchoTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/JavaBeginGuide/BlockDemo.java" />
       </list>
     </option>
   </component>
@@ -132,20 +140,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeadFirstJava" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -485,7 +479,13 @@
       <option name="project" value="LOCAL" />
       <updated>1440361567560</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Cleaning up .java files.">
+      <created>1440366478708</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1440366478708</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -534,7 +534,8 @@
     <MESSAGE value="HFJ Guessing game. Multiple classes." />
     <MESSAGE value="Code Magnets - DrumKit" />
     <MESSAGE value="PoolPuzzle - Echo challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="PoolPuzzle - Echo challenge" />
+    <MESSAGE value="Cleaning up .java files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleaning up .java files." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -589,10 +590,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ForDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaBeginGuide/ForDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30650154">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -711,7 +713,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CharArithDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaBeginGuide/CharArithDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.250774">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
@@ -719,7 +721,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BoolDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaBeginGuide/BoolDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.250774">
           <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
@@ -727,7 +729,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Shuffle1.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaBeginGuide/Shuffle1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
@@ -735,10 +737,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BlockDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/JavaBeginGuide/BlockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22291021">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.27863777">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding />
         </state>
       </provider>
