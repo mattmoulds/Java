@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8357ef71-3292-4454-81ff-d02d62e1af9f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HeadFirstJava/PhraseOMatic.java" afterPath="$PROJECT_DIR$/src/HeadFirstJava/PhraseOMatic.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -40,8 +39,8 @@
       <file leaf-file-name="PhraseOMatic.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/PhraseOMatic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.05263158">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state vertical-scroll-proportion="0.24767801">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -553,7 +552,13 @@
       <option name="project" value="LOCAL" />
       <updated>1440370192798</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="dummy text added to PhraseOMatic">
+      <created>1440370587687</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1440370587687</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -605,7 +610,8 @@
     <MESSAGE value="PoolPuzzle - Echo challenge" />
     <MESSAGE value="Cleaning up .java files." />
     <MESSAGE value="Dog example using arrays. There's a bug when using IntelliJ whereby the println for the array notation [2] shows the reference variable in memory rather than the value." />
-    <option name="LAST_COMMIT_MESSAGE" value="Dog example using arrays. There's a bug when using IntelliJ whereby the println for the array notation [2] shows the reference variable in memory rather than the value." />
+    <MESSAGE value="dummy text added to PhraseOMatic" />
+    <option name="LAST_COMMIT_MESSAGE" value="dummy text added to PhraseOMatic" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -821,8 +827,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/PhraseOMatic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.05263158">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state vertical-scroll-proportion="0.24767801">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding />
         </state>
       </provider>
