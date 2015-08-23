@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8357ef71-3292-4454-81ff-d02d62e1af9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DogTestDrive.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.iml" afterPath="$PROJECT_DIR$/test.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Movie.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MovieTestDrive.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -27,44 +25,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BeerSong.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BeerSong.java">
+      <file leaf-file-name="Movie.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Movie.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PhraseOMatic.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PhraseOMatic.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Dog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Dog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+              <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
               <folding>
-                <element signature="e#119#120#0" expanded="true" />
-                <element signature="e#168#169#0" expanded="true" />
+                <element signature="e#132#133#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DogTestDrive.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DogTestDrive.java">
+      <file leaf-file-name="MovieTestDrive.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MovieTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30650154">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.3622291">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -92,6 +70,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/Dog.java" />
         <option value="$PROJECT_DIR$/src/DogTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/Movie.java" />
+        <option value="$PROJECT_DIR$/src/MovieTestDrive.java" />
       </list>
     </option>
   </component>
@@ -174,7 +154,7 @@
       <recent name="$PROJECT_DIR$/.idea/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DogTestDrive">
+  <component name="RunManager" selected="Application.MovieTestDrive">
     <configuration default="false" name="BeerSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="BeerSong" />
@@ -223,6 +203,21 @@
     <configuration default="false" name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="DogTestDrive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="test" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="MovieTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="MovieTestDrive" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -407,18 +402,20 @@
       <listeners />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.BeerSong" />
       <item index="1" class="java.lang.String" itemvalue="Application.ForDemo" />
       <item index="2" class="java.lang.String" itemvalue="Application.PhraseOMatic" />
       <item index="3" class="java.lang.String" itemvalue="Application.DogTestDrive" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MovieTestDrive" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.DogTestDrive" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PhraseOMatic" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ForDemo" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BeerSong" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.MovieTestDrive" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DogTestDrive" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PhraseOMatic" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ForDemo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BeerSong" />
       </list>
     </recent_temporary>
   </component>
@@ -433,11 +430,18 @@
       <option name="number" value="Default" />
       <updated>1440323135616</updated>
     </task>
+    <task id="LOCAL-00001" summary="HFL Making my first object!">
+      <created>1440349646662</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1440349646662</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -454,7 +458,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959569" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936507" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -474,6 +478,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HFL Making my first object!" />
+    <option name="LAST_COMMIT_MESSAGE" value="HFL Making my first object!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -578,8 +586,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DogTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30650154">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MovieTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3622291">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
           <folding />
         </state>
       </provider>
