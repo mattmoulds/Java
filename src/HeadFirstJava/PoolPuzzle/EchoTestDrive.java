@@ -1,4 +1,4 @@
-package PoolPuzzle;
+package HeadFirstJava.PoolPuzzle;
 
 /**
  * Created by matt on 23/08/15.

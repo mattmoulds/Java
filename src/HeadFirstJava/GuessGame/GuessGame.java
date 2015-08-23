@@ -1,6 +1,4 @@
-package HeadFirstJava;
-
-import HeadFirstJava.Player;
+package HeadFirstJava.GuessGame;
 
 /**
  * Created by matt on 23/08/15.

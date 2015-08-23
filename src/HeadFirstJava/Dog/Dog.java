@@ -1,4 +1,4 @@
-package HeadFirstJava;
+package HeadFirstJava.Dog;
 
 /**
  * Created by matt on 23/08/15.

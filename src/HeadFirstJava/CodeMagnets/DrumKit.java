@@ -1,4 +1,4 @@
-package CodeMagnets;
+package HeadFirstJava.CodeMagnets;
 
 /**
  * Created by matt on 23/08/15.
