@@ -9,7 +9,7 @@ public class MIx4 {
         int count = 0;
         MIx4 [] m4a = new MIx4[20];
         int x = 0;
-        while (x < 9) {
+        while (x < 19) {
             m4a[x] = new MIx4();
             m4a[x].counter = m4a[x].counter + 1;
             count = count + 1;
@@ -20,7 +20,7 @@ public class MIx4 {
     }
 
     public int mayBeNew(int index) {
-        if (index < 5) {
+        if (index < 1) {
             MIx4 m4 = new MIx4();
             m4.counter = m4.counter + 1;
             return 1;
