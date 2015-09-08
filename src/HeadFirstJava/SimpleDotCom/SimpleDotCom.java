@@ -23,7 +23,7 @@ public class SimpleDotCom {
         }
 
         if (numOfHits == locationCells.length) {
-            result = "klil";
+            result = "kill";
         }
 
         System.out.println(result);
