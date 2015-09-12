@@ -16,27 +16,27 @@ public class LogicalOpTable_Binary {
         int qb = (q) ? 1 : 0;
         System.out.print(pb + "\t" + qb +"\t");
         System.out.print((pb & qb) + "\t" + (pb | qb) + "\t");
-        System.out.println((pb ^ qb) + "\t" + (!p));
+        System.out.println((pb ^ qb) + "\t" + (!p ? 1 : 0));
 
         p = true; q = false;
         pb = (p) ? 1 : 0;
         qb = (q) ? 1 : 0;
         System.out.print(pb + "\t" + qb +"\t");
         System.out.print((pb&qb) + "\t" + (pb|qb) + "\t");
-        System.out.println((pb ^ qb) + "\t" + (!p));
+        System.out.println((pb ^ qb) + "\t" + (!p ? 1 : 0));
 
         p = false; q = true;
         pb = (p) ? 1 : 0;
         qb = (q) ? 1 : 0;
         System.out.print(pb + "\t" + qb +"\t");
         System.out.print((pb&qb) + "\t" + (pb|qb) + "\t");
-        System.out.println((pb^qb) + "\t" + (!p));
+        System.out.println((pb^qb) + "\t" + (!p ? 1 : 0));
 
         p = false; q = false;
         pb = (p) ? 1 : 0;
         qb = (q) ? 1 : 0;
         System.out.print(pb + "\t" + qb +"\t");
         System.out.print((pb&qb) + "\t" + (pb|qb) + "\t");
-        System.out.println((pb^qb) + "\t" + (!p));
+        System.out.println((pb^qb) + "\t" + (!p ? 1 : 0));
     }
 }
