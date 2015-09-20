@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8357ef71-3292-4454-81ff-d02d62e1af9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/DoctorInheritance/Doctor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/DoctorInheritance/FamilyDoctor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/DoctorInheritance/Surgeon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/PolymorphicAnimal/PolyAnimal.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -39,10 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FamilyDoctor.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PolyAnimal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/PolymorphicAnimal/PolyAnimal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30361447">
+              <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FamilyDoctor.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/DoctorInheritance/FamilyDoctor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13012049">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
               <folding />
             </state>
@@ -89,7 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/MovieTestDrive.java" />
         <option value="$PROJECT_DIR$/src/Player.java" />
         <option value="$PROJECT_DIR$/src/GameLauncher.java" />
         <option value="$PROJECT_DIR$/src/GuessGame.java" />
@@ -140,6 +147,7 @@
         <option value="$PROJECT_DIR$/src/HeadFirstJava/DoctorInheritance/Doctor.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/DoctorInheritance/FamilyDoctor.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/DoctorInheritance/Surgeon.java" />
+        <option value="$PROJECT_DIR$/src/HeadFirstJava/PolymorphicAnimal/PolyAnimal.java" />
       </list>
     </option>
   </component>
@@ -183,7 +191,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -252,12 +259,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DoctorInheritance" />
+              <option name="myItemId" value="PolymorphicAnimal" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -759,7 +767,13 @@
       <option name="project" value="LOCAL" />
       <updated>1442350834064</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Added inheritance example using three different types of doctors.">
+      <created>1442700674005</created>
+      <option name="number" value="00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1442700674005</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -787,9 +801,9 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39980158" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32900432" sideWeight="0.49458128" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31006494" sideWeight="0.44236454" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -804,7 +818,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Code Magnets - DrumKit" />
     <MESSAGE value="PoolPuzzle - Echo challenge" />
     <MESSAGE value="Cleaning up .java files." />
     <MESSAGE value="Dog example using arrays. There's a bug when using IntelliJ whereby the println for the array notation [2] shows the reference variable in memory rather than the value." />
@@ -829,7 +842,8 @@
     <MESSAGE value="Truth table for the logical operators boolean" />
     <MESSAGE value="Created new working DotCom game using ArrayLists" />
     <MESSAGE value="Added new code magnet challange." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new code magnet challange." />
+    <MESSAGE value="Added inheritance example using three different types of doctors." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added inheritance example using three different types of doctors." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -840,13 +854,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/PhraseOMatic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30650154">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.058441557">
@@ -1167,7 +1174,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1175,7 +1181,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4506024">
           <caret line="45" column="23" selection-start-line="45" selection-start-column="23" selection-end-line="45" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1183,6 +1188,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/DoctorInheritance/FamilyDoctor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1195,10 +1208,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/DoctorInheritance/FamilyDoctor.java">
+    <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/PolymorphicAnimal/PolyAnimal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13012049">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.30361447">
+          <caret line="21" column="3" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
           <folding />
         </state>
       </provider>
