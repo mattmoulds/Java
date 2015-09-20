@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8357ef71-3292-4454-81ff-d02d62e1af9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/PetOwner.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/Vet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HeadFirstJava/Animals/MainClass.java" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/MainClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Overloads.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -29,12 +27,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/Animals/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7975904">
-              <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Overloads.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/Overloads.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08674699">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#149#150#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#299#300#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/Animals/Vet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
               <folding>
                 <element signature="e#127#128#0" expanded="true" />
                 <element signature="e#156#157#0" expanded="true" />
@@ -108,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HeadFirstJava/Dog/DogTestDrive.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/Dog/Dog.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/CodeMagnets/TestArrays.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/PoolPuzzle/Triangle.java" />
@@ -159,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/HeadFirstJava/Animals/PetOwner.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/Animals/Vet.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/Animals/MainClass.java" />
+        <option value="$PROJECT_DIR$/src/HeadFirstJava/Overloads.java" />
       </list>
     </option>
   </component>
@@ -249,28 +264,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="HeadFirstJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java_1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HeadFirstJava" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Animals" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -796,7 +789,13 @@
       <option name="project" value="LOCAL" />
       <updated>1442772465521</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Created new vet and petOwner class. Although i've added the use of the giveShot method to the MainClass to view the example.">
+      <created>1442778149908</created>
+      <option name="number" value="00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1442778149908</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -841,7 +840,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dog example using arrays. There's a bug when using IntelliJ whereby the println for the array notation [2] shows the reference variable in memory rather than the value." />
     <MESSAGE value="dummy text added to PhraseOMatic" />
     <MESSAGE value="Added a couple of new pages" />
     <MESSAGE value="Added new Dog example showing how instance variables can affect the behavior of methods." />
@@ -866,7 +864,8 @@
     <MESSAGE value="Added inheritance example using three different types of doctors." />
     <MESSAGE value="Added a polymorphism example but left the contents commented out." />
     <MESSAGE value="Added the animal inheritance example which isn't covered in the book. This has a god awful MainClass file which will be altered at a later date." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added the animal inheritance example which isn't covered in the book. This has a god awful MainClass file which will be altered at a later date." />
+    <MESSAGE value="Created new vet and petOwner class. Although i've added the use of the giveShot method to the MainClass to view the example." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created new vet and petOwner class. Although i've added the use of the giveShot method to the MainClass to view the example." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -877,13 +876,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/PoolPuzzle/HeapQuiz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/ThirdDog/DogTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1278,7 +1270,7 @@
     <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/Animals/Vet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
           <folding>
             <element signature="e#127#128#0" expanded="true" />
             <element signature="e#156#157#0" expanded="true" />
@@ -1288,9 +1280,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/Animals/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7975904">
-          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/Overloads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08674699">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
