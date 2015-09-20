@@ -15,6 +15,7 @@ public class MainClass {
         Lion lion = new Lion();
         Cat cat = new Cat();
         Tiger tiger = new Tiger();
+        Vet vet = new Vet();
 
         animal.makeNoise();
         animal.eat();
@@ -78,6 +79,12 @@ public class MainClass {
         cat.roam();
 
         System.out.println();
+
+        vet.giveShot(dog);
+
+        System.out.println();
+
+        vet.giveShot(hippo);
 
     }
 }

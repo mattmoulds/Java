@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8357ef71-3292-4454-81ff-d02d62e1af9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/Animals.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/Canine.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/Cat.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/Feline.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/Hippo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/Lion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/MainClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/Tiger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/Wolf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/PetOwner.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/Vet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/HeadFirstJava/Animals/MainClass.java" afterPath="$PROJECT_DIR$/src/HeadFirstJava/Animals/MainClass.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
@@ -39,8 +32,31 @@
       <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/Animals/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.39036146">
-              <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+            <state vertical-scroll-proportion="0.7975904">
+              <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vet.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/Animals/Vet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PetOwner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/Animals/PetOwner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -92,8 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HeadFirstJava/CodeMagnets/DrumKit.java" />
-        <option value="$PROJECT_DIR$/src/HeadFirstJava/CodeMagnets/DrumKitTestDrive.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/Dog/DogTestDrive.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/Dog/Dog.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/CodeMagnets/TestArrays.java" />
@@ -140,9 +154,11 @@
         <option value="$PROJECT_DIR$/src/HeadFirstJava/Animals/Lion.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/Animals/Tiger.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/Animals/Cat.java" />
-        <option value="$PROJECT_DIR$/src/HeadFirstJava/Animals/MainClass.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/Animals/Feline.java" />
         <option value="$PROJECT_DIR$/src/HeadFirstJava/Animals/Canine.java" />
+        <option value="$PROJECT_DIR$/src/HeadFirstJava/Animals/PetOwner.java" />
+        <option value="$PROJECT_DIR$/src/HeadFirstJava/Animals/Vet.java" />
+        <option value="$PROJECT_DIR$/src/HeadFirstJava/Animals/MainClass.java" />
       </list>
     </option>
   </component>
@@ -774,12 +790,18 @@
       <option name="project" value="LOCAL" />
       <updated>1442769332522</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Added the animal inheritance example which isn't covered in the book. This has a god awful MainClass file which will be altered at a later date.">
+      <created>1442772465521</created>
+      <option name="number" value="00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1442772465521</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1015" height="1896" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -798,7 +820,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24926108" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31006494" sideWeight="0.43842363" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31006494" sideWeight="0.43842363" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -819,7 +841,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Cleaning up .java files." />
     <MESSAGE value="Dog example using arrays. There's a bug when using IntelliJ whereby the println for the array notation [2] shows the reference variable in memory rather than the value." />
     <MESSAGE value="dummy text added to PhraseOMatic" />
     <MESSAGE value="Added a couple of new pages" />
@@ -844,7 +865,8 @@
     <MESSAGE value="Added new code magnet challange." />
     <MESSAGE value="Added inheritance example using three different types of doctors." />
     <MESSAGE value="Added a polymorphism example but left the contents commented out." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added a polymorphism example but left the contents commented out." />
+    <MESSAGE value="Added the animal inheritance example which isn't covered in the book. This has a god awful MainClass file which will be altered at a later date." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the animal inheritance example which isn't covered in the book. This has a god awful MainClass file which will be altered at a later date." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -855,20 +877,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/CodeMagnets/TestArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/PoolPuzzle/Triangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/PoolPuzzle/HeapQuiz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1259,10 +1267,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/Animals/PetOwner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/Animals/Vet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/HeadFirstJava/Animals/MainClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.39036146">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        <state vertical-scroll-proportion="0.7975904">
+          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
           <folding />
         </state>
       </provider>
